@@ -1,0 +1,7 @@
+C:\Users\djoni\source\repos\KFC\KFC\bin\Debug\KFC.exe.config
+C:\Users\djoni\source\repos\KFC\KFC\bin\Debug\KFC.exe
+C:\Users\djoni\source\repos\KFC\KFC\bin\Debug\KFC.pdb
+C:\Users\djoni\source\repos\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+C:\Users\djoni\source\repos\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\KFC\KFC\obj\Debug\KFC.exe
+C:\Users\djoni\source\repos\KFC\KFC\obj\Debug\KFC.pdb
